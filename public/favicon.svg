@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Computer</title>
+  <rect x="7" y="7" width="50" height="34" rx="4" fill="#082b55"/>
+  <rect x="11" y="11" width="42" height="26" rx="2" fill="#2587f5"/>
+  <path d="M20 21l7-7M20 27l4-4" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M27 41h10v5H27z" fill="#082b55"/>
+  <rect x="22" y="46" width="20" height="3.5" rx="1.75" fill="#082b55"/>
+  <path d="M13 51h38l4 7H9z" fill="#082b55"/>
+  <g fill="#fff">
+    <rect x="15" y="52" width="4" height="1.8" rx=".6"/>
+    <rect x="21" y="52" width="4" height="1.8" rx=".6"/>
+    <rect x="27" y="52" width="4" height="1.8" rx=".6"/>
+    <rect x="33" y="52" width="4" height="1.8" rx=".6"/>
+    <rect x="39" y="52" width="4" height="1.8" rx=".6"/>
+    <rect x="45" y="52" width="4" height="1.8" rx=".6"/>
+    <rect x="17" y="55" width="4" height="1.4" rx=".5"/>
+    <rect x="23" y="55" width="4" height="1.4" rx=".5"/>
+    <rect x="29" y="55" width="10" height="1.4" rx=".5"/>
+    <rect x="41" y="55" width="4" height="1.4" rx=".5"/>
+  </g>
+</svg>
