@@ -29,7 +29,7 @@ export const Route = createRootRoute({
       },
     ],
   }),
-  shellComponent: RootDocument,
+  shellComponent: RootDocument, 
 })
 
 function RootDocument({ children }: { children: React.ReactNode }) {
