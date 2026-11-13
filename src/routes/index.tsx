@@ -22,6 +22,11 @@ function Home() {
         and opened in January 20X5. It has three ovens, four delivery vans,
         and 14 staff members.
       </p>
+      <img src="/bakery.svg"
+        alt="Illustration of seven bread loaves on three cooling shelves"
+        width={1000} height={500}
+        className="mt-8 w-full max-w-2xl rounded-md border border-edge"
+      />
       <h2 className="font-display text-2xl mt-10 mb-3">What we bake</h2>
       <ul className="list-disc pl-6 space-y-2 text-ink-soft">
         <li>Sourdough, semolina, and rye loaves</li>
